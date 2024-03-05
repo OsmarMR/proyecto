@@ -12,3 +12,15 @@ body{
 font-family: Arial, sans-serif;
 margin: O;
 padding: 0;
+}
+.container {
+display: flex
+justify-content: space-between;
+padding: 20 px;
+border-radius: 5px;
+}
+</style>
+</head>
+<body>
+
+<div class=
