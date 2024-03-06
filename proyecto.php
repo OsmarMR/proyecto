@@ -29,3 +29,33 @@ $articulo5 = [
 "gramos" => 42
 "precio" => 18
 ];
+
+$articulo6 = [
+   "producto" => "helado"
+   "ml" => "900ml"
+   "precio" => "55"
+   ];
+
+$articulo7 = [
+   "producto" => "yogurt"
+   "ml" => "50ml"
+   "precio" => "15"
+   ];
+
+$articulo8 = [
+   "producto" => "jugo"
+   "ml" => "500ml"
+   "precio" => "20"
+   ];
+
+$articulo9 = [
+   "producto" => "carne"
+   "gramos" => "600gr"
+   "precio" => "150"
+   ];
+
+$articulo10 = [
+   "producto" => "pasta"
+   "gr" => "100gr"
+   "precio" => "30"
+   ];
