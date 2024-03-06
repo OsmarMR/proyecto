@@ -62,7 +62,7 @@ $articulo10 = [
 
 $articulo11 = [
 "producto" => "Coca cola"
-"litros" => 2L
+"litros" => 2l
 "precio" => 27
 ];
 
