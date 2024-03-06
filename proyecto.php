@@ -8,7 +8,7 @@ $articulo1 = [
 
 $articulo2 = [
 "producto" => "aceite"
-"mililitros" => 900
+"ml" => 900
 "precio" => 25
 ];
 
