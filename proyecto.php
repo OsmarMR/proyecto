@@ -59,3 +59,33 @@ $articulo10 = [
    "gr" => "100gr"
    "precio" => "30"
    ];
+
+$articulo11 = [
+"producto" => "Coca cola"
+"Litros" => 2L
+"precio" => 27
+];
+
+$articulo12 = [
+"producto" => "desodorante"
+"gramos" => 50
+"precio" => 60
+];
+
+$articulo13 = [
+"producto" => "pañales"
+"paquete" => 24
+"precio" => 200
+];
+
+$articulo14 = [
+"producto" => "jabon"
+"gramos" => 150
+"precio" => 35
+];
+
+$articulo15 = [
+"producto" => "pasta de dientes"
+"gramos" => 99
+"precio" => 50
+];
