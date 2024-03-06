@@ -19,8 +19,8 @@ $articulo3 = [
 ];
 
 $articulo4 = [
-"producto" => "pasta"
-"gramos" => 220
+"producto" => "papaya"
+"gramos" => 200
 "precio" => 15
 ];
 
