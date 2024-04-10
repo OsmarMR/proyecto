@@ -22,31 +22,30 @@ console.log("hello express")
 
 
 
-Opp-get(*/json', (red, res) = (
-
-var response = "=
-
-
-
-console. log ("HESSAGE_STYLE:" + process.env. MESSAGE_STYLE):
-
-It (process.env. HESSAGE_STYLE == "uppercase") (
-
-response = "HELLO JSON":
-
-) olse (
-
-respanse = "Hello [san":
-
-
-
-res.send( ("aessage"t response))
-11|
+Opp-get(*/json', (red, 
 
 
 
 
+app-get ('/json', (reg, res)
 
+var response = *
+
+
+console. log ("MESSAGE_STYLE:" + process. env-MESSAGE_STYLE):
+
+if (process.env.MESSAGE_STYLE :
+"uppercase") {
+
+response = "HELLO JSON";
+} else (
+
+
+response = "Hello json";
+｝
+
+
+res. send (("message": response))
 
 
 
