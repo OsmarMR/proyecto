@@ -71,3 +71,43 @@ value=""></td></form>
 </center>
 </BODY>
 </HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<HTML>
+<HEAD>
+<META charset="utf-8">
+</HEAD>
+<BODY>
+<SCRIPT type="text/javaScript">
+
+var texto="Hola Mundo";
+alert(texto);
+
+
+</SCRIPT>
+</BODY>
+</HTML>
