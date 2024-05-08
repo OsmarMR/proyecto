@@ -111,3 +111,23 @@ alert(texto);
 </SCRIPT>
 </BODY>
 </HTML>
+
+
+
+
+
+Realizar la suma de los siguientes valores:
+2.- 5+2
+1.- 4+4
+<HTML>
+<TITLE> Sumas </TITLE>
+«SCRIPT LANGUAGE="JavaScript">
+alert (4+4);
+</SCRIPT>
+<HTML>
+<TITLE> Sumas </TITLE>
+<SCRIPT LANGUAGE="JavaScript"'>
+alert （5+2）；
+</SCRIPT>
+</HTML>
+</HTML>
