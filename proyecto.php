@@ -67,6 +67,8 @@ alert(4+4);
     alert(5+2);
     
 </SCRIPT>
+</HTML>
+    
 
 
 
