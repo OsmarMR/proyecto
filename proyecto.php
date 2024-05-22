@@ -1,105 +1,25 @@
-1
-
-
-<HTML>
-<HEAD>
-<META charset="utf-8">
-</HEAD>
-<BODY>
-<SCRIPT type="text/javaScript">
-
-var texto="Hola Mundo";
-alert(texto);
-
-
-</SCRIPT>
-</BODY>
-</HTML>
-
-
-
-2
-
-
 <html>
-<body>
-<h2>JavaScript Variables</h2>
 
-<p>Página que muestra los datos del alumno</p>
+ <head>
 
-<p id="demo"></p>
-
+<meta charset="UTF-8">
+<title>Ciclo while</title>
+</head>
+<body bgcolor="#F781F3"><center>
+<marquee bgcolor=#890481 behavior=alternate><font color=#FFFFFF size=30 face="a Arbei Berry">Cecyte La Presa - Grupo 4EPGM</marquee>
+<h1><font face="a Area Stencil" size=15><b>Uso del ciclo While</font></h1>
+<h2>
 <script>
-var nombre = "Ivette";
-var apellido = "Torres";
-var direccion = 'La Presa';
-var edad = 17;
-X
-document.getElementById("demo"). innerHTML =
-nombre + "<br>" + apellido +"<br>" +direccion + "<br>" + edad;
+var i=0;
+alert("Uso del ciclo while");
+document.write("Imprime los números del 0 al 10."+"</h2>"+"<br>");
+while (i<=10){
+document.write(i+"<br>");
+ i++
+ }
 </script>
+<br><br><br><br><br>
+<marquee bgcolor=#890481 direction=up scrolldelay=500><font color=#FFFFFF size=5 face="a Auto Signature"> <center>Mtra. Lourdes Ivette Torres Ibarra.</font></marquee>
+<center>
 </body>
 </html>
-
-
-
-
-3
-
-
-
-<HTML>
-<TITLE>Sumas</TITLE>
-<SCRIPT LANGUAGE="JavaScript">
-alert(4+4);
-
-</SCRIPT>
-</HTML>
-
-
-4
-
-
-
-<HTML>
-    <TITLE>Sumas</TITLE>
-    <SCRIPT LANGUAGE="JavaScript">
-    alert(5+2);
-    
-</SCRIPT>
-</HTML>
-    
-
-
-
-
-5
-
-
-
-
-<HTML>
-<HEAD>
-<META charset="utf-8">
-<TITLE>Sumas</TITLE>
-<input type="text"placeholder="Dame el valor" id="Numero1"><br><br>
-<input type="text"placeholder="Dame el valor" id="Numero2"><br><br>
-<input type="text"placeholder="Dame el valor" id="Numero3"><br><br>
-<input type="text"placeholder="Dame el valor" id="Numero4"><br><br>
-<input type="button" name="name"value="Presioname" onclick="Sumas();">
-</HEAD>
-<BODY>
-<SCRIPT type="text/javaScript">
-function Sumas()
-{
-var Valor1=parseInt(document.getElementByld('Numero1').value);
-var Valor2=parseInt(document.getElementByld('Numero2').value);
-var Valor3=parselnt(document.getElementByld('Numero3').value);
-var Valor4=parselnt(document.getElementByld('Numero4').value);
-var Resultado;
-Resultado=Valor1+Valor2+Valor3+Valor4;
-alert("El valor de la suma es:"+Resultado);
-}
-</SCRIPT>
-</BODY>
-</HTML>
