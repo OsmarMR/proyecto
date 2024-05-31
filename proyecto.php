@@ -1,4 +1,4 @@
-<html>
+ja<html>
 
  <head>
 
@@ -27,4 +27,43 @@ document.write(i+"<br>");
 
 
 
-<!DOCTYPE html><html lang="es"><head> <title>ejemplo ciclo for sencillo</title> <meta charset="utf-8"></head><body style="background-color: lightgreen;"><div align="center"><h2>Mostrar números con el ciclo FOR</h2></div><hr><b>Descripción: </b>mostrar los números deseados con el ciclo for<br><br><script>var i; for(i=2;i<=203;i=parseInt(i)+2) {document.write(i+" </body></html> ");}</script>
+<!
+
+
+
+
+Blert（"PlueoElgina con uso de 1a sentencia swittch "fin"topciones： "+"a"+"1. Opcion 1"+"n"t2. Opcionで＋1が"+3。Opcion 3）；
+var ni = parseint(prompt ("Selecciona una opción: "));
+document.write ("Numero: "+n1+"<br>") ;
+switch (n1) {
+case 1:
+document. write("<br>"+"Seleccionaste opción 1 "+"<br›");
+break
+case 2:
+document. write("<br>"+"Seleccionaste opción 2 "+"<br›");
+break
+case 3:
+document. write("<br›"+"Seleccionaste opción 3 "+"<br›");
+break default:
+document.write("‹br>"+"Esa opción no existe! ERROR 404... "+"<br>");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOCTYPE html><html lang="es"><head> <title>ejemplo ciclo for sencillo</title> <meta charset="utf-8"></head><body style="background-color: lightgreen;"><div align="center"><h2>Mostrar números con el ciclo FOR</h2></div><hr><b>Descripción: </b>mostrar los números deseados con el ciclo for<br><br><script>var i; for(i=2;i<=203;i=parseInt(i)+2) {document.write(i+" </body></html> ");}</script>
