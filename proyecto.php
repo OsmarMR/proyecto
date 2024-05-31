@@ -23,3 +23,8 @@ document.write(i+"<br>");
 <center>
 </body>
 </html>
+
+
+
+
+<!DOCTYPE html><html lang="es"><head> <title>ejemplo ciclo for sencillo</title> <meta charset="utf-8"></head><body style="background-color: lightgreen;"><div align="center"><h2>Mostrar números con el ciclo FOR</h2></div><hr><b>Descripción: </b>mostrar los números deseados con el ciclo for<br><br><script>var i; for(i=2;i<=203;i=parseInt(i)+2) {document.write(i+" </body></html> ");}</script>
